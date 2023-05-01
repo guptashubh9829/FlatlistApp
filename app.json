@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jsonToExcel",
+    "slug": "jsonToExcel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jsonToExcel"
+}
