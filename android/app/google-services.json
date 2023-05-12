@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167562393053",
+    "project_id": "login-eb5bf",
+    "storage_bucket": "login-eb5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167562393053:android:d8588c4b7b8829e99d3234",
+        "android_client_info": {
+          "package_name": "com.jsontoexcel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167562393053-oqd5n4cufarq8097o2utmfgn0l25bj2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsontoexcel",
+            "certificate_hash": "e0c754a0e19f523f5bf79a9faac0a44448789df6"
+          }
+        },
+        {
+          "client_id": "167562393053-110vg9u1ecfk2a5i7ijeglovk0227ft1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WT0gIQFzJJtF2uG50sqWx_28r4YiR0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167562393053-110vg9u1ecfk2a5i7ijeglovk0227ft1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
